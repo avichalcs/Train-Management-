@@ -4,14 +4,20 @@ A small project based on Train Management System in Java.
 
 ## Pages
 -> Login
+
 -> Check Schedule
+
 -> Platform
+
 -> About
+
 -> Exit
 
 ## Dependencies
 -> Java
+
 -> Java Swing
+
 -> Eclipse
 
 ## ScreenShots
